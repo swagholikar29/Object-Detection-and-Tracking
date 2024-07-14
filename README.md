@@ -38,24 +38,6 @@ To run the project and observe the Kalman filter in action, follow these steps:
 
 2. **Run the Code**: Execute the provided code to apply the Kalman filter to the surveillance video. For ease experimenting the code is a Google colab file. Make a copy of it, save it in drive and you can experiment with it..
 
-<!-- ## Example Results
-
-![Result 2](images/occlusion_handling.jpg)
-
-*Caption: Handling occlusion*
-
-## Contributions
-
-Contributions and feedback are highly encouraged and welcome! If you'd like to contribute to this project or report any issues, please open an [issue](https://github.com/yourusername/yourproject/issues) or submit a [pull request](https://github.com/Lucifer2700/Kalman_filters/pulls). Your input can help enhance the project's capabilities.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Feel free to use, modify, and distribute the code in accordance with the license terms.
-
-For more information and project updates, visit the project's GitHub repository: [Project Repository](https://github.com/Lucifer2700/Kalman_filters).
-
-For inquiries and contact, reach out to [Harshal Bhat](mailto:hbhat@wpi.edu). -->
-
 ---
 
 *Disclaimer: This project is an educational endeavor. It may not be suitable for deployment in critical applications without further refinement.*
